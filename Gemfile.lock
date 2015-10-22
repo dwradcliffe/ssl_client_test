@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dwradcliffe_test_gem_push (0.0.51)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dwradcliffe_test_gem_push
+
+BUNDLED WITH
+   1.10.6
